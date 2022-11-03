@@ -36,6 +36,7 @@ nav{
     grid-template-rows: 1fr;
     background: rgb(72,48,106);
     background: linear-gradient(74deg, rgba(72,48,106,1) 35%, rgba(148,187,233,1) 100%);
+    color: aliceblue;
     height: auto;
     width: auto;
     position: sticky;
@@ -183,6 +184,8 @@ nav{
     width: 100px;
     background-color: purple;
 }
+
+
 
 .boton_menu{
     transition-property: all; /*propiedad de la transicion*/
